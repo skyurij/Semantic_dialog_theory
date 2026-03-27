@@ -1,0 +1,21 @@
+# LaTeX build files
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# MacOS
+.DS_Store
+
+# Python notebooks
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
+
+# Temporary files
+*.tmp
+*.bak
