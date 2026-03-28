@@ -118,10 +118,10 @@ presented in the manuscript.
 
 If you use these materials in academic work, please cite the main manuscript:
 
-**Skyurij, Y. (2025). _Stable Motion in Layered Phase Spaces and an Invariant of Meaning Dynamics._**
+**Uri Skomorovsky. (2025). _Stable Motion in Layered Phase Spaces and an Invariant of Meaning Dynamics._**
 
 You may also reference this repository as:
 
-Skyurij, Y. (2025). *Semantic Dialog Theory: Supplementary Materials.*  
+Uri Skomorovsky. (2025). *Semantic Dialog Theory: Supplementary Materials.*  
 GitHub repository: https://github.com/skyurij/Semantic_dialog_theory
 
