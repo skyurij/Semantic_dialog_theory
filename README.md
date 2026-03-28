@@ -1,28 +1,34 @@
-# Semantic Dialog Theory
-
-## Repository Structure
+# Semantic Dialog Theory  
+### Supplementary Materials for  
+**“Stable Motion in Layered Phase Spaces and an Invariant of Meaning Dynamics”**
 
 This repository contains supplementary materials for the manuscript  
-**“Stable Motion in Layered Phase Spaces and an Invariant of Meaning Dynamics.”**
+**“Stable Motion in Layered Phase Spaces and an Invariant of Meaning Dynamics.”**  
+It provides empirical illustrations of the theoretical framework developed in the paper,  
+including layered phase‑space dynamics, stable motion, invariant ratios, and semantic synchrony.
 
-It includes full transcripts and meaning‑dynamic analyses of three instructional dialogues,  
-each illustrating a distinct cognitive type and a distinct trajectory in the layered phase‑space model.
+The materials include three instructional dialogues with students of different cognitive types.  
+Each dialogue demonstrates a distinct trajectory in the semantic phase space and provides  
+a concrete example of how meaning dynamics unfold in real teacher–student interaction.
 
-The repository includes:
+---
 
-- Full transcript and extended analysis of the Benya teacher–student dialogue  
-- Additional examples of meaning-dynamic trajectories  
-- Supporting notes and diagrams (optional)
+## 🔍 Purpose of This Repository
 
-The main paper develops:
+The goal of this repository is to:
 
-- A layered phase-space model of meaning  
-- A stable-motion theorem for semantic dynamics  
-- An invariant ratio of structural to topological complexity  
-- A semantic analogue of NP-type bounds  
-- An application to human–human instructional dialogue
+- provide **empirical grounding** for the theoretical constructs introduced in the paper,  
+- illustrate **three distinct cognitive regimes** (intuitive–structural, kinesthetic–constructive, analytic–constructive),  
+- show how these regimes correspond to **different types of motion** in layered phase spaces,  
+- demonstrate how the **invariant ratio** behaves in real semantic interactions,  
+- offer **annotated transcript fragments** and **cognitive analyses** for researchers studying meaning dynamics.
 
-## Repository Structure
+These materials serve as a bridge between the abstract mathematical theory  
+and real-world semantic processes.
+
+---
+
+## 📁 Repository Structure
 
 Semantic_dialog_theory/
 │
@@ -31,9 +37,9 @@ Semantic_dialog_theory/
 ├── .gitignore
 │
 ├── transcripts/
-│   ├── iosif_transcript_en.md
-│   ├── gosha_transcript_en.md
-│   ├── benya_transcript_en.md
+│   ├── iosif_fragments_en.md
+│   ├── gosha_fragments_en.md
+│   ├── benya_fragments_en.md
 │
 ├── analysis/
 │   ├── iosif_analysis_en.md
@@ -47,5 +53,5 @@ Semantic_dialog_theory/
 │   └── invariant_explanations.md
 │
 └── paper/
-    ├── stable_motion_meaning_dynamics.pdf
-    └── main.tex
+├── stable_motion_meaning_dynamics.pdf
+└── main.tex
