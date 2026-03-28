@@ -1,7 +1,12 @@
 # Semantic Dialog Theory
 
+## Repository Structure
+
 This repository contains supplementary materials for the manuscript  
 **“Stable Motion in Layered Phase Spaces and an Invariant of Meaning Dynamics.”**
+
+It includes full transcripts and meaning‑dynamic analyses of three instructional dialogues,  
+each illustrating a distinct cognitive type and a distinct trajectory in the layered phase‑space model.
 
 The repository includes:
 
