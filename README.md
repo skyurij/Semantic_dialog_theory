@@ -19,14 +19,28 @@ The main paper develops:
 
 ## Repository Structure
 
-/transcripts
-benya_full_transcript.md
-benya_extended_analysis.md
-
-/notes
-diagrams/
-examples/
-
-README.md
-LICENSE
-.gitignore
+Semantic_dialog_theory/
+│
+├── README.md
+├── LICENSE.md
+├── .gitignore
+│
+├── transcripts/
+│   ├── iosif_transcript_en.md
+│   ├── gosha_transcript_en.md
+│   ├── benya_transcript_en.md
+│
+├── analysis/
+│   ├── iosif_analysis_en.md
+│   ├── gosha_analysis_en.md
+│   ├── benya_analysis_en.md
+│   ├── comparative_cognition_summary.md
+│
+├── notes/
+│   ├── diagrams/
+│   ├── examples/
+│   └── invariant_explanations.md
+│
+└── paper/
+    ├── stable_motion_meaning_dynamics.pdf
+    └── main.tex
