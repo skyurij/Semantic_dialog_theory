@@ -13,7 +13,7 @@ a concrete example of how meaning dynamics unfold in real teacher–student inte
 
 ---
 
-## 🔍 Purpose of This Repository
+## 🧭 Purpose of This Repository
 
 The goal of this repository is to:
 
@@ -28,36 +28,26 @@ and real-world semantic processes.
 
 ---
 
-## 📁 Repository Structure
+## 🗂️ Repository Structure
 
-Semantic_dialog_theory/
+semantic_dialog_theory/
 │
-├── README.md
 ├── LICENSE.md
-├── .gitignore
+├── README.md
 │
-├── transcripts/
-│   ├── iosif_fragments_en.md
-│   ├── gosha_fragments_en.md
-│   ├── benya_fragments_en.md
+├── gosha_fragments_en.md
+├── benya_fragments_en.md
+├── iosif_fragments_en.md
 │
-├── analysis/
-│   ├── iosif_analysis_en.md
-│   ├── gosha_analysis_en.md
-│   ├── benya_analysis_en.md
-│   ├── comparative_cognition_summary.md
+├── gosha_analysis_en.md
+├── benya_analysis_en.md
+├── iosif_analysis_en.md
+├── comparative_cognition_summary.md
 │
-├── notes/
-│   ├── diagrams/
-│   ├── examples/
-│   └── invariant_explanations.md
-│
-└── paper/
-├── stable_motion_meaning_dynamics.pdf
-└── main.tex
+└── (optional future folders: notes/, diagrams/, paper/)
 
 
-Cognitive Types and Meaning‑Dynamic Trajectories
+---
 
 ## 🧠 Cognitive Types and Meaning‑Dynamic Trajectories
 
@@ -67,7 +57,7 @@ The three dialogues illustrate three qualitatively different cognitive regimes:
 - Relies on internal visual models (“brackets”, “blocks”).  
 - Non‑linear reasoning, jumps between layers.  
 - Synchrony rises when structure is visual; falls when symbolic formalism appears.  
-- Corresponds to **quasi‑periodic motion** in the phase space.
+- Corresponds to **quasi‑periodic motion** in the semantic phase space.
 
 ### **2. Gosha — Kinesthetic–Constructive Thinker**
 - Understands through physical action (folding, touching, manipulating).  
@@ -81,10 +71,12 @@ The three dialogues illustrate three qualitatively different cognitive regimes:
 - Synchrony is consistently high.  
 - Corresponds to **stable, invariant‑preserving motion**.
 
+These three cognitive types form a natural empirical triad  
+demonstrating the theoretical claims of the manuscript.
+
 ---
 
-
-## 🧩 Relation to the Main Paper
+## 🔗 Relation to the Main Paper
 
 The dialogues provide concrete examples of:
 
@@ -95,17 +87,19 @@ The dialogues provide concrete examples of:
 - **Semantic synchrony** as a dynamical phenomenon  
 
 Each student naturally occupies a different region of the phase space,  
-making the trio a natural empirical triad for illustrating the theory.
+making the trio a natural empirical illustration of the theory.
+
+---
 
 ## 📘 How to Use These Materials
 
 Researchers may use these materials to:
 
-- study meaning dynamics in real instructional dialogue,
-- analyze cognitive types through the lens of dynamical systems,
-- test the invariant ratio on empirical data,
-- explore semantic synchrony and breakdown conditions,
-- examine how layered phase‑space transitions occur in natural conversation,
+- study meaning dynamics in real instructional dialogue,  
+- analyze cognitive types through the lens of dynamical systems,  
+- test the invariant ratio on empirical data,  
+- explore semantic synchrony and breakdown conditions,  
+- examine how layered phase‑space transitions occur in natural conversation,  
 - extend the theoretical framework to other domains (education, linguistics, cognitive science).
 
 Each transcript fragment is paired with a cognitive analysis,  
@@ -113,15 +107,16 @@ and the comparative summary provides a unified map of the three cognitive regime
 Together, these materials form an empirical foundation for the theoretical results  
 presented in the manuscript.
 
+---
 
 ## 📚 Citation
 
 If you use these materials in academic work, please cite the main manuscript:
 
-**Uri Skomorovsky. (2025). _Stable Motion in Layered Phase Spaces and an Invariant of Meaning Dynamics._**
+**Skyurij, Y. (2025). _Stable Motion in Layered Phase Spaces and an Invariant of Meaning Dynamics._**
 
 You may also reference this repository as:
 
-Uri Skomorovsky. (2025). *Semantic Dialog Theory: Supplementary Materials.*  
+Skyurij, Y. (2025). *Semantic Dialog Theory: Supplementary Materials.*  
 GitHub repository: https://github.com/skyurij/Semantic_dialog_theory
 
