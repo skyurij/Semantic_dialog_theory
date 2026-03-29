@@ -11,6 +11,20 @@ The materials include three instructional dialogues with students of different c
 Each dialogue demonstrates a distinct trajectory in the semantic phase space and provides  
 a concrete example of how meaning dynamics unfold in real teacher–student interaction.
 
+## Machine‑Reactive Cognitive Regime
+
+In addition to the three human cognitive types (Iosif, Gosha, Benya), the repository now includes
+an analysis of Human–LLM interaction. The LLM exhibits a distinct meaning‑dynamic mode:
+
+- reactive rather than structural,  
+- oscillatory rather than stable,  
+- context‑driven rather than invariant‑driven,  
+- constructive but lacking global coherence.
+
+This regime is termed **machine‑reactive cognition**.  
+It behaves as an amplified form of the Gosha‑type trajectory, with high topological freedom and
+low structural density. The full analysis is available in `analysis/human_llm_analysis.md`.
+
 ---
 
 ## 🧭 Purpose of This Repository
@@ -38,14 +52,13 @@ semantic_dialog_theory/
 ├── gosha_fragments_en.md
 ├── benya_fragments_en.md
 ├── iosif_fragments_en.md
-│
-├── gosha_analysis_en.md
-├── benya_analysis_en.md
-├── iosif_analysis_en.md
-├── comparative_cognition_summary.md
-│
+│── analysis/
+│   ├── gosha_analysis_en.md
+│   ├── benya_analysis_en.md
+│   ├── iosif_analysis_en.md
+│   ├── comparative_cognition_summary.md
+│   └── human_llm_analysis.md   ← NEW
 └── (optional future folders: notes/, diagrams/, paper/)
-
 
 ---
 
@@ -70,9 +83,6 @@ The three dialogues illustrate three qualitatively different cognitive regimes:
 - Provides precise logical justification.  
 - Synchrony is consistently high.  
 - Corresponds to **stable, invariant‑preserving motion**.
-
-These three cognitive types form a natural empirical triad  
-demonstrating the theoretical claims of the manuscript.
 
 ---
 
@@ -107,6 +117,9 @@ and the comparative summary provides a unified map of the three cognitive regime
 Together, these materials form an empirical foundation for the theoretical results  
 presented in the manuscript.
 
+A new comparative analysis of Human–LLM interaction is provided in
+`analysis/human_llm_analysis.md`, illustrating machine‑reactive cognition as a distinct
+meaning‑dynamic regime.
 ---
 
 ## 📚 Citation
